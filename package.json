@@ -1,0 +1,9 @@
+{
+  "name": "websocket-game",
+  "version": "1.0.0",
+  "description": "This is a websocket game developed with vanillajs also used expressjs ",
+  "main": "src/index.js",
+  "repository": "https://github.com/satiseven/websocket-game",
+  "author": "satiseven <satiseven777@gmail.com>",
+  "license": "MIT"
+}
